@@ -1,2 +1,2 @@
 # xanaxrepo
-just a verry basic version of xanax repo and xanax build
+just a very basic version of xanax repo and xanax build
